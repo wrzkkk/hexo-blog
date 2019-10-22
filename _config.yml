@@ -92,3 +92,6 @@ deploy:
   type: git
   repo: https://github.com/wrzkkk/wrzkkk.github.io
   branch: master
+
+# google tag manager
+google_tag: GTM-TG6BD8V
